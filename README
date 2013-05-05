@@ -1,0 +1,20 @@
+SpinFour
+========
+
+SpinFour was an iPhone game with an accelerometer twist on Connect Four. In
+addition to dropping pieces you could also spin the board by rotating the phone
+and have gravity move the pieces.
+
+src
+---
+Contains the Objective-C game logic and AI files. The iPhone-specific interface
+files have been omitted.
+
+media
+-----
+Contains screenshots and a trailer for the game.
+
+Thanks!
+-------
+To Jason Medeiros without whom this project could never have happened.
+
